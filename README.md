@@ -31,6 +31,6 @@ Choisissez une option : 1
  Résultat : 8
 ```
 Voici un exemple de l'exécution du programme (screenshot) :
-![Exécution du programme]([execution.png](https://www.bing.com/ck/a?!&&p=a1f7348c762734f0976f284d7d04fe009b541ead5a25c35de366541a35484f1aJmltdHM9MTc2MTE3NzYwMA&ptn=3&ver=2&hsh=4&fclid=3c8cf1a0-b54e-6653-0f23-e3b3b4466775&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZSZpZD0yOTBCRTlEQTYyNzFFNjQyNkU3Q0I3RDg4QzFGNENCRTJDNjI1MkU5JkZPUk09SVFGUkJB))
+![Exécution du programme](https://www.bing.com/ck/a?!&&p=a1f7348c762734f0976f284d7d04fe009b541ead5a25c35de366541a35484f1aJmltdHM9MTc2MTE3NzYwMA&ptn=3&ver=2&hsh=4&fclid=3c8cf1a0-b54e-6653-0f23-e3b3b4466775&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZSZpZD0yOTBCRTlEQTYyNzFFNjQyNkU3Q0I3RDg4QzFGNENCRTJDNjI1MkU5JkZPUk09SVFGUkJB)
 
 
