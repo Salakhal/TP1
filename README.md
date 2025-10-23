@@ -31,5 +31,6 @@ Choisissez une option : 1
  Résultat : 8
 
 Voici un exemple de l'exécution du programme (screenshot) :
-![Exécution du programme](images/execution.PNG)
+![Exécution du programme](execution.png)
+
 
