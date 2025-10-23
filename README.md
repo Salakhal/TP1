@@ -27,8 +27,9 @@ Ce projet **TP1** est une application Java en mode console qui permet d’effect
 4. Trouver le plus grand
 0. Quitter
 Choisissez une option : 1
+
 Entrez deux entiers : 5 3
 Résultat : 8
 
 Voici un exemple de l'exécution du programme (screenshot) :
-![Exécution du programme] (images/execution.png)
+
