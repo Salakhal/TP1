@@ -19,7 +19,7 @@ Ce projet **TP1** est une application Java en mode console qui permet d’effect
    - Entrer `0` pour quitter.
 
 ## Exemple d’exécution
-
+```bash
 === MENU PRINCIPAL ===
 1. Addition
 2. Multiplication
@@ -29,7 +29,7 @@ Ce projet **TP1** est une application Java en mode console qui permet d’effect
 Choisissez une option : 1
  Entrez deux entiers : 5 3
  Résultat : 8
-
+```
 Voici un exemple de l'exécution du programme (screenshot) :
 ![Exécution du programme](execution.png)
 
